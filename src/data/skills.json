@@ -1,0 +1,86 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/HTML.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/Nodejs.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/Javascript.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "skills/C++.png"
+    },
+    {
+      "title": "C#",
+      "imageSrc": "skills/Csharp.png"
+    },
+    {
+      "title": "Docker",
+      "imageSrc": "skills/Docker.png"
+    },
+    {
+      "title": "Express",
+      "imageSrc": "skills/Express.png"
+    },
+    {
+      "title": "Firebase",
+      "imageSrc": "skills/Firebase.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/Git.png"
+    },
+    {
+      "title": "Heroku",
+      "imageSrc": "skills/Heroku.png"
+    },
+    {
+      "title": "MySql",
+      "imageSrc": "skills/MySQL.png"
+    },
+    {
+      "title": "Vite",
+      "imageSrc": "skills/Vite.js.png"
+    },
+    {
+      "title": "Netlify",
+      "imageSrc": "skills/Netlify.png"
+    },
+    {
+      "title": "Vercel",
+      "imageSrc": "skills/Vercel.png"
+    },
+    {
+      "title": "TypeScript",
+      "imageSrc": "skills/TypeScript.png"
+    },
+    {
+      "title": "Postman",
+      "imageSrc": "skills/Postman.png"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "skills/Linux.png"
+    }
+  ]
