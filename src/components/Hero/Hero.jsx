@@ -9,8 +9,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Amitansh Parnami</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with Cloud and DevOps experience. I love
-          building responsive and optimized sites.
+        Full-stack developer with expertise in MERN stack, cloud, and DevOps. I build responsive, optimized web apps and love tackling real-world problems.
         </p>
         <a href="#contact" className={styles.contactBtn}>
           Contact Me
