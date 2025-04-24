@@ -4,7 +4,7 @@
       "imageSrc": "projects/MernAI.png",
       "description": "Built with the MERN stack and powered by the ChatGPT API, this project delivers a robust AI-enhanced login system, complete with an admin panel and interactive dashboard.",
       "skills": ["React", "Express", "Node", "Javascript", "MongoDB", "ChatGPT"],
-      "demo": "",
+      "demo": "https://mern-ai-dev.netlify.app",
       "source": "https://github.com/Amitansh-P"
     },
     {
@@ -12,7 +12,7 @@
       "imageSrc": "projects/LoginSystem.png",
       "description": "This project implements a full-featured authentication system using JWT and the MERN stack, including login, signup, forgot password, and reset password functionality. It also leverages React Bootstrap for UI components and Redux Toolkit for state management.",
       "skills": ["React", "Express", "Node", "Javascript", "MongoDB"],
-      "demo": " ",
+      "demo": "https://complete-login-system.netlify.app",
       "source": "https://github.com/Amitansh-P"
     },
     {
@@ -20,7 +20,7 @@
       "imageSrc": "projects/blackjack.png",
       "description": "Developed with JavaScript, this project delivers a straightforward, beginner-friendly card game experience. Using a standard 52-card deck, the goal is to beat the dealer without going over 21.",
       "skills": ["HTML", "CSS", "JAVASCRIPT"],
-      "demo": "https://amitansh-p.github.io/BlackJack-Game/",
+      "demo": "https://amitansh-p.github.io/BlackJack-Game",
       "source": "https://github.com/Amitansh-P"
     }
   ]
