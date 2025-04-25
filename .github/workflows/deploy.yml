@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Build and Deploy to GitHub Pages
 on:
   push:
     branches:
@@ -6,7 +6,7 @@ on:
 permissions:
   contents: write
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
@@ -18,5 +18,10 @@ jobs:
           cache: 'npm'
       - name: Install Dependencies
         run: npm install
-      - name: Deploy Project
-        run: npm run deploy
+      - name: Build Project
+        run: npm run build
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: dist
